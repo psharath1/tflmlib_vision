@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<name>TFmicroPersonDetection</name>
-<comment/>
-<projects>
+	<name>TFLM_PersonDetection</name>
+	<comment></comment>
+	<projects>
 		<project>XtensaInfo</project>
 	</projects>
-<buildSpec>
+	<buildSpec>
 		<buildCommand>
 			<name>com.tensilica.xide.cdt.xtensamanagedbuilder</name>
 			<arguments>
@@ -18,7 +18,7 @@
 			</arguments>
 		</buildCommand>
 	</buildSpec>
-<natures>
+	<natures>
 		<nature>org.eclipse.cdt.core.cnature</nature>
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
